@@ -11,9 +11,9 @@
 After installing transformers I am going to import the modules I need.
 
 ```markdown
-{% highlight python %}
-from transformers import  pipeline, QuestionAnsweringPipeline, AutoTokenizer, AutoModelForQuestionAnswering, AutoModel, AutoModelWithLMHead
-{% endhighlight %}
+
+`from transformers import  pipeline, QuestionAnsweringPipeline, AutoTokenizer, AutoModelForQuestionAnswering, AutoModel, AutoModelWithLMHead`
+
 ```
 
 
