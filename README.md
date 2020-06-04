@@ -8,6 +8,13 @@
 %cd transformers
 !pip install .
 ```
+After installing transformers I am going to import the modules I need.
+
+```markdown
+from transformers import  pipeline, QuestionAnsweringPipeline, AutoTokenizer, AutoModelForQuestionAnswering, AutoModel, AutoModelWithLMHead
+
+```
+
 
 
 ## Welcome to GitHub Pages
