@@ -1,4 +1,4 @@
-## Customer Question Answering Based on User Aggrements
+# Customer Question Answering Based on User Aggrements
   This project is an example of question answering based on BERT transformer. This was prepared for my "deep learning for natural language processing" course. 
   
   Before starting to explain what has been done in this project concept of transfer learning is needed to mention. Transfer learning focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. As my professor frequently says "No need to invent the wheel again", this project uses already built transformers. In order to acces transformers that I used and others you need to install [Huggingface Transformers](https://github.com/huggingface/transformers). Installing them is fairly simple. Also for this project I have used Google Colab since it is free to use easy access to high performing machines. (In this project I mostly benefited from their high speed internet connection :) )
