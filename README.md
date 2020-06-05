@@ -1,5 +1,10 @@
 # Customer Question Answering Based on User Aggrements
-  This project is an example of question answering based on BERT transformer. This was prepared for my "deep learning for natural language processing" course. 
+This project was built for a my **Deep Learning for Natural Language Processing** course in **Istanbul Sehir University**
+
+
+Under supervision of **ASST. PROF. MEHMET SERKAN APAYDIN**
+
+  This project is an example of question answering based on BERT transformer. 
   
   Before starting to explain what has been done in this project concept of transfer learning is needed to mention. Transfer learning focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. As my professor frequently says "No need to invent the wheel again", this project uses already built transformers. In order to acces transformers that I used and others you need to install [Huggingface Transformers](https://github.com/huggingface/transformers). Installing them is fairly simple. Also for this project I have used Google Colab since it is free to use easy access to high performing machines. (In this project I mostly benefited from their high speed internet connection :) )
   
@@ -124,3 +129,5 @@ Can I use Twitter if I am not older than 13?
 # Answer: You must be at least 13 years old
 ```
 Model succesfully answers these questions as well. As a person needs to be 13 years old to use twitter, if they are younger than this they can't use it. This model's further usage can be studied and it may be applicable for some contract related questions or may be customer question answering tool.
+
+
