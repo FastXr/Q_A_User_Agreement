@@ -100,7 +100,7 @@ When can I cancel Netflix?
 When should I cancel Netflix?
 # Answer: Before your billing date
 ```
-These question are amazingly accurate since I can cancel my Netflix account my any time but I would like to cancel it before my billing date to not pay another month's bill.
+These questions are amazingly accurate since I can cancel my Netflix account my any time but I would like to cancel it before my billing date to not pay another month's bill.
 
 I wanted to try another case
 ```markdown
